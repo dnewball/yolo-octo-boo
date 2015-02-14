@@ -11,6 +11,7 @@ div, button{
 }
 #title{
 	font-size: 48px;
+  color: mediumblue;
 }
 
 #btnMyLocation, #btnResetLocation {
