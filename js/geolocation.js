@@ -1,4 +1,4 @@
-1function updateLocationDetails(data){
+function updateLocationDetails(data){
 	var now = new Date();
 
 	$("#location_query").html(data.query);
